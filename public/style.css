@@ -27,12 +27,74 @@ body{
         margin-top: 10px;
         margin-bottom: 100px;
      }
+     .index-third{
+        text-align: center;
+        color: aliceblue;
+        font-family: -webkit-body;
+        font-size: 40px;
+        position: relative;
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 5px;
+     }
      .jumbotron{
         background: none;
          padding-top: 19px;
          
      }
+     
+.cardStyle{
+   border-style: groove;
+   background: none;
+   color: aliceblue;
+   border-color: inherit;
+   text-align: center;
+   margin: 10px;
+   /* height: 340px; */
+}
+.cardStyleP{
+   border-style: groove;
+   background: none;
+   color: aliceblue;
+   border-color: inherit;
+   text-align: center;
+   margin: 10px;
+   height: 340px;
+}
+.homeBtn{
+   margin: auto;
+    margin-top: 70px;
+   /* height: 340px; */
+}
 
+.projectImg{
+   margin: auto;Three
+   display: block;
+   width: 80%;
+}
+
+.pOne{
+   color: aliceblue;
+   margin-top: 70px;
+   margin-left: 70px;
+}
+.pTwo{
+   color: aliceblue;
+   margin-top: 50px;
+   margin-left: 70px;
+}
+.pThree{
+   color: aliceblue;
+   margin-top: 10px;
+   margin-left: 11%;
+}
+
+.contactPhoto{
+   margin-top: 21%;
+}
+ .align-self-end {
+   align-self-end 
+ }
 
 
 

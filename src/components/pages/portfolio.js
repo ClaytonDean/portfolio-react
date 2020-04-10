@@ -11,10 +11,10 @@ function Portfolio() {
       </div>
 
 
-<div className="row rowStyle">
+<div className="row ">
 
     <div className="col-sm-4">
-        <div className="card cardStyle">
+        <div className="card cardStyleP">
           <div className="card-body">
             <h5 className="card-title">Pokemon Battle</h5>
             <img className="projectImg"src="/imgs/pokemon.png" alt="oof"></img>
@@ -26,7 +26,7 @@ function Portfolio() {
     </div>
 
     <div className="col-sm-4">
-        <div className="card cardStyle">
+        <div className="card cardStyleP">
           <div className="card-body">
             <h5 className="card-title">Eat the Pizza!</h5>
             <img className="projectImg"src="/imgs/Pizza.png" alt="oof"></img>
@@ -38,7 +38,7 @@ function Portfolio() {
     </div>
 
     <div className="col-sm-4">
-        <div className="card cardStyle">
+        <div className="card cardStyleP">
           <div className="card-body">
             <h5 className="card-title">NoteTaker</h5>
             <img className="projectImg"src="/imgs/Notetaker.png" alt="oof"></img>
@@ -50,19 +50,19 @@ function Portfolio() {
     </div>
 
     <div className="col-sm-4">
-        <div className="card cardStyle">
+        <div className="card cardStyleP">
           <div className="card-body">
             <h5 className="card-title">GrocerEASE</h5>
             <img className="projectImg"src="/imgs/Annotation 2020-02-27 022214.png" alt="oof"></img>
             <p>Ingredients search engine using ajax calls within a polished UI</p>
               <a href="https://lorddominic.github.io/grocerEASE/" class="btn btn-dark">View</a>
-              <a href="https://github.com/lorddominic/grocerEASE" class="btn btn-dark">View with Github</a>
+              <a href="https://github.com/lorddominic/grocerEASE" class="btn btn-dark align-self-end">View with Github</a>
           </div>
         </div>
     </div>
 
     <div className="col-sm-4">
-        <div className="card cardStyle">
+        <div className="card cardStyleP">
           <div className="card-body">
             <h5 className="card-title">Weather Dashboard</h5>
             <img className="projectImg"src="/imgs/WeatherDashboard.png" alt="oof"></img>
@@ -74,7 +74,7 @@ function Portfolio() {
     </div>
 
     <div className="col-sm-4">
-        <div className="card cardStyle">
+        <div className="card cardStyleP">
           <div className="card-body">
             <h5 className="card-title">Password Generator</h5>
             <img className="projectImg"src="/imgs/PasswordGenerator.png" alt="oof"></img>
@@ -88,6 +88,20 @@ function Portfolio() {
 
 </div>
 
+<div className="row">
+
+
+
+<div className="col-sm-4 homeBtn">
+  <div className="card cardStyle ">
+    <div className="card-body">
+      <h5 className="card-title">Home</h5>
+      <a href="/" className="btn btn-dark indexBtn">Return to Homepage</a>
+    </div>
+  </div>
+</div>
+
+</div>
 </div>
 
   );

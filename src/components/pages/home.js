@@ -11,13 +11,13 @@ function Home() {
       </div>
 
 
-    <div class="row rowStyle">
+    <div className="row">
 
       <div className="col-sm-4">
         <div className="card cardStyle">
           <div className="card-body">
             <h5 className="card-title">Portfolio</h5>
-            <a href="portfolio" className="btn btn-dark indexBtn">View Portfolio</a>
+            <a href="portfolio" className="btn btn-dark indexBtn">View</a>
           </div>
         </div>
       </div>
@@ -34,8 +34,8 @@ function Home() {
       <div className="col-sm-4">
         <div className="card cardStyle">
           <div className="card-body">
-            <h5 className="card-title">Contact</h5>
-            <a href="contact" className="btn btn-dark indexBtn">View Portfolio</a>
+            <h5 className="card-title">About Me / Contact Page</h5>
+            <a href="contact" className="btn btn-dark indexBtn">View</a>
           </div>
         </div>
       </div>
