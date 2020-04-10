@@ -26,7 +26,7 @@ function Home() {
         <div className="card cardStyle">
           <div className="card-body">
             <h5 className="card-title">Resume</h5>
-            <a href="https://claytondean.github.io/bootstrap-portfolio/Resume/Clayton_Holman_Resume.PDF" class="btn btn-dark indexBtn">View PDF</a>
+            <a href="https://claytondean.github.io/bootstrap-portfolio/Resume/Clayton_Holman_Resume.PDF" className="btn btn-dark indexBtn">View PDF</a>
           </div>
         </div>
       </div>

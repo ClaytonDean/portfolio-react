@@ -9,7 +9,7 @@ function Contact() {
         <div className="index-para">About Me</div>
       </div>
 
-      <div class="row rowStyle">
+      <div className="row rowStyle">
 
         <div className="col-sm-4">
           <img className="contactPhoto" src="/imgs/53263060_2216075605082257_7274623324573925376_o.jpg" alt="oof"></img>
@@ -25,7 +25,7 @@ function Contact() {
 
 <div className="index-third"> Proficient in: </div>
 
-<div class="row rowStyle">
+<div className="row rowStyle">
 
   <div className="pThree col-sm-4">
   <ul className="pThree">

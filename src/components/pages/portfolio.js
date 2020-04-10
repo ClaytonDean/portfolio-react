@@ -19,8 +19,8 @@ function Portfolio() {
             <h5 className="card-title">Pokemon Battle</h5>
             <img className="projectImg"src="/imgs/pokemon.png" alt="oof"></img>
             <p>Pokemon Battle App using HTML, CSS, Jquery, and Express Handlebars on the front end and uses Node.js, Express, MySQL, and Sequelize on the back end.</p>
-            <a href="https://glacial-beyond-53964.herokuapp.com/pokedex" class="btn btn-dark">View</a>
-                <a href="https://github.com/JacksonCroy/Dope-Pokemon-Dopeness" class="btn btn-dark">View with Github</a>
+            <a href="https://glacial-beyond-53964.herokuapp.com/pokedex" className="btn btn-dark">View</a>
+                <a href="https://github.com/JacksonCroy/Dope-Pokemon-Dopeness" className="btn btn-dark">View with Github</a>
           </div>
         </div>
     </div>
@@ -31,8 +31,8 @@ function Portfolio() {
             <h5 className="card-title">Eat the Pizza!</h5>
             <img className="projectImg"src="/imgs/Pizza.png" alt="oof"></img>
             <p>Utilizes nodeJS, express, handlebars, and mySQL to configure an exercise designed to help understand the fundamentals of MVC as well as get/post/put/delete methods</p>
-                <a href="https://boiling-beach-59041.herokuapp.com/" class="btn btn-dark">View</a>
-                <a href="https://github.com/ClaytonDean/eat-the-pizza" class="btn btn-dark">View with Github</a>
+                <a href="https://boiling-beach-59041.herokuapp.com/" className="btn btn-dark">View</a>
+                <a href="https://github.com/ClaytonDean/eat-the-pizza" className="btn btn-dark">View with Github</a>
           </div>
         </div>
     </div>
@@ -43,8 +43,8 @@ function Portfolio() {
             <h5 className="card-title">NoteTaker</h5>
             <img className="projectImg"src="/imgs/Notetaker.png" alt="oof"></img>
             <p>Uses HTML and API routing to display, post, and delete the users note title and note text</p>
-                <a href="https://agile-plains-83236.herokuapp.com/" class="btn btn-dark">View</a>
-                <a href="https://github.com/ClaytonDean/heroku-note-taker" class="btn btn-dark">View with Github</a>
+                <a href="https://agile-plains-83236.herokuapp.com/" className="btn btn-dark">View</a>
+                <a href="https://github.com/ClaytonDean/heroku-note-taker" className="btn btn-dark">View with Github</a>
           </div>
         </div>
     </div>
@@ -55,8 +55,8 @@ function Portfolio() {
             <h5 className="card-title">GrocerEASE</h5>
             <img className="projectImg"src="/imgs/Annotation 2020-02-27 022214.png" alt="oof"></img>
             <p>Ingredients search engine using ajax calls within a polished UI</p>
-              <a href="https://lorddominic.github.io/grocerEASE/" class="btn btn-dark">View</a>
-              <a href="https://github.com/lorddominic/grocerEASE" class="btn btn-dark align-self-end">View with Github</a>
+              <a href="https://lorddominic.github.io/grocerEASE/" className="btn btn-dark">View</a>
+              <a href="https://github.com/lorddominic/grocerEASE" className="btn btn-dark align-self-end">View with Github</a>
           </div>
         </div>
     </div>
@@ -67,8 +67,8 @@ function Portfolio() {
             <h5 className="card-title">Weather Dashboard</h5>
             <img className="projectImg"src="/imgs/WeatherDashboard.png" alt="oof"></img>
             <p>Uses ajax calls to find specific weather forecasts depending on city or country</p>
-              <a href="https://claytondean.github.io/Weather_App/" class="btn btn-dark">View</a>
-              <a href="https://github.com/ClaytonDean/Weather_App" class="btn btn-dark">View with Github</a>
+              <a href="https://claytondean.github.io/Weather_App/" className="btn btn-dark">View</a>
+              <a href="https://github.com/ClaytonDean/Weather_App" className="btn btn-dark">View with Github</a>
           </div>
         </div>
     </div>
@@ -79,8 +79,8 @@ function Portfolio() {
             <h5 className="card-title">Password Generator</h5>
             <img className="projectImg"src="/imgs/PasswordGenerator.png" alt="oof"></img>
             <p>Creates various passwords depending on user specifications</p>
-              <a href="https://claytondean.github.io/password-generator/" class="btn btn-dark">View</a>
-              <a href="https://github.com/ClaytonDean/password-generator" class="btn btn-dark">View with Github</a>
+              <a href="https://claytondean.github.io/password-generator/" className="btn btn-dark">View</a>
+              <a href="https://github.com/ClaytonDean/password-generator" className="btn btn-dark">View with Github</a>
           </div>
         </div>
     </div>
